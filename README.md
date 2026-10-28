@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**fernando-robles-data/fernando-robles-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Fernando Robles
 
-Here are some ideas to get you started:
+Data Analyst focused on data engineering, SQL development, and process automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Working with Oracle SQL and analytical queries.
+- Building ETL workflows with SQL Server Integration Services (SSIS).
+- Using Visual Studio for data integration and development.
+- Exploring Python for data processing and automation.
+- Interested in data quality, query optimization, and reliable data pipelines.
+
+## Technical Skills
+
+- **Databases:** Oracle Database, SQL Server
+- **Data Integration:** SSIS, ETL processes
+- **Programming:** SQL, Python, C#
+- **Tools:** Visual Studio, Git, GitHub
+
+## Portfolio Projects
+
+Projects will be added here as they are developed and documented.
+
+## Contact
+
+- GitHub: https://github.com/fernando-robles-data
